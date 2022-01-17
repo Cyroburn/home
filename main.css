@@ -1,0 +1,12 @@
+body{
+  background-color: Yellow;
+  font-style: normal;
+  font-family: sans-serif;
+}
+.contentbox{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 20px;
+  border: 2px;
+  border-radius: 15px;
+}
